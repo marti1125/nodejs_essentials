@@ -1,0 +1,2 @@
+{"name":"example-11","hostname":"MacBook-Pro-de-Willy.local","pid":3721,"level":30,"http_parser":"2.6.0","node":"5.4.0","v8":"4.6.85.31","uv":"1.8.0","zlib":"1.2.8","ares":"1.10.1-DEV","icu":"56.1","modules":"47","openssl":"1.0.2e","msg":"","time":"2016-02-06T23:32:10.942Z","v":0}
+{"name":"example-11","hostname":"MacBook-Pro-de-Willy.local","pid":3721,"level":30,"msg":"Application started","time":"2016-02-06T23:32:10.945Z","v":0}
